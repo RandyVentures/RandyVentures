@@ -11,7 +11,6 @@ Software architect by day, indie iOS developer by night. Currently shipping Rall
 - ☕ **[Bean Hunt](https://beanhunt.app)** - Coffee discovery app focused on drink recommendations, not just shop ratings
 
 ### Open Source
-- 🤖 **[Clawdbot](https://github.com/RandyVentures/clawdbot)** - Personal AI assistant for any OS, any platform
 - 📱 **[Telegram CLI (tgcli)](https://github.com/RandyVentures/tgcli)** - Command-line interface for Telegram
 - 📊 **[Market Analyst](https://github.com/RandyVentures/Market-Analyst)** - Market analysis based on Druckenmiller and Camillo frameworks
 - 🔗 **[AgentBridge](https://github.com/RandyVentures/AgentBridge)** - API to CLI bridge for AI agents
