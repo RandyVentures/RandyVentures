@@ -1,6 +1,6 @@
 # Hi, I'm Randy 👋
 
-📍 McAllen, TX | 🏗️ Building apps people actually want to use | 🎾 Pickleball enthusiast
+📍 McAllen, TX | 🏗️ Building apps people actually want to use
 
 Software architect by day, indie iOS developer by night. Currently shipping Rally Track and Bean Hunt while working on building better systems.
 
