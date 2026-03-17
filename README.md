@@ -34,7 +34,6 @@ Software architect by day, indie iOS developer by night. Currently shipping Rall
 
 ## Connect
 
-- 🌐 [randyventures.com](https://www.randyventures.com)
 - 📝 [Blog](https://randyventures.github.io/randall/)
 - 💼 GitHub: [@RandyVentures](https://github.com/RandyVentures)
 
