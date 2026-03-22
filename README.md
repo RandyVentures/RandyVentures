@@ -6,9 +6,9 @@ Software architect by day, indie iOS developer by night. Currently shipping Rall
 
 ## Current Projects
 
-### Apps in App Store Review
-- 🎾 **[Rally Track](https://randyventures.github.io/Rally-Track-Site/)** - Simple pickleball scorekeeping without the bloat or paywalls
-- ☕ **[Bean Hunt](https://beanhunt.app)** - Coffee discovery app focused on drink recommendations, not just shop ratings
+### Apps
+- ✅ 🎾 **[Rally Track](https://randyventures.github.io/Rally-Track-Site/)** — Live on the App Store — simple pickleball scorekeeping without the bloat or paywalls
+- 🕒 ☕ **[Bean Hunt](https://beanhunt.app)** — In App Store review — coffee discovery app focused on drink recommendations, not just shop ratings
 
 ### Open Source
 - 📱 **[Telegram CLI (tgcli)](https://github.com/RandyVentures/tgcli)** - Command-line interface for Telegram
@@ -16,6 +16,7 @@ Software architect by day, indie iOS developer by night. Currently shipping Rall
 - 🔗 **[AgentBridge](https://github.com/RandyVentures/AgentBridge)** - API to CLI bridge for AI agents
 
 ### Web & Tools
+- 🧭 **[ModelPilot](https://modelpilot.app)** — AI model updates + teaching (what/when/how with examples)
 - 📝 **[Randall's Blog](https://github.com/RandyVentures/randall)** - Thoughts on code, business, and life
 - 🏠 **[Rent Ledger](https://github.com/RandyVentures/rent-ledger-app)** - Property management tool
 - 🍔 **[DealBeacon](https://github.com/RandyVentures/dealbeacon)** - Find local deals and plan weekly meals
@@ -28,7 +29,7 @@ Software architect by day, indie iOS developer by night. Currently shipping Rall
 
 ## What I'm Focused On
 
-**Right now:** Shipping Rally Track and Bean Hunt to the App Store. Learning to build apps faster, ship more consistently, and balance side projects with full-time work.
+**Right now:** Rally Track is live, Bean Hunt is in review, and I’m building ModelPilot. Learning to build faster, ship more consistently, and balance side projects with full-time work.
 
 **Philosophy:** Ship beats perfect. Build things that solve real problems. Keep it simple.
 
