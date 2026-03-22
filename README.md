@@ -16,7 +16,7 @@ Software architect by day, indie iOS developer by night. Currently shipping Rall
 - 🔗 **[AgentBridge](https://github.com/RandyVentures/AgentBridge)** - API to CLI bridge for AI agents
 
 ### Web & Tools
-- 🧭 **[ModelPilot](https://modelpilot.app)** — AI model updates + teaching (what/when/how with examples)
+- 🧭 **[ModelPilot](https://randyventures.github.io/ModelPilotSite/)** — AI model updates + teaching (what/when/how with examples)
 - 📝 **[Randall's Blog](https://github.com/RandyVentures/randall)** - Thoughts on code, business, and life
 - 🏠 **[Rent Ledger](https://github.com/RandyVentures/rent-ledger-app)** - Property management tool
 - 🍔 **[DealBeacon](https://github.com/RandyVentures/dealbeacon)** - Find local deals and plan weekly meals
